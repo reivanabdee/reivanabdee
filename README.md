@@ -42,6 +42,17 @@ Building automation, backend stuff, and tools that make work less annoying.
   <img src="https://img.shields.io/badge/Python-0b001a?style=for-the-badge&logo=python&logoColor=c4b5fd" />
   <img src="https://img.shields.io/badge/Linux-0b001a?style=for-the-badge&logo=linux&logoColor=e9d5ff" />
   <img src="https://img.shields.io/badge/Git-0b001a?style=for-the-badge&logo=git&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Docker-0b001a?style=for-the-badge&logo=docker&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0b001a?style=for-the-badge&logo=postgresql&logoColor=c4b5fd" />
+  <img src="https://img.shields.io/badge/MySQL-0b001a?style=for-the-badge&logo=mysql&logoColor=e9d5ff" />
+  <img src="https://img.shields.io/badge/Nginx-0b001a?style=for-the-badge&logo=nginx&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0b001a?style=for-the-badge&logo=githubactions&logoColor=c4b5fd" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reivanabdee&color=5b21b6&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/reivanabdee?style=for-the-badge&color=0b001a&labelColor=0b001a&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/reivanabdee?style=for-the-badge&color=0b001a&labelColor=0b001a&label=STARS" />
 </p>
 
 ---
