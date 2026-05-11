@@ -23,18 +23,6 @@ Building automation, backend stuff, and tools that make work less annoying.
 
 </div>
 
----
-
-## 🏆 Achievement board
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=reivanabdee&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12" alt="github trophies" />
-
-</div>
-
----
-
 ## 🧰 Tech I use
 
 <p align="center">
