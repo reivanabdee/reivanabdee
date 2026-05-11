@@ -17,23 +17,12 @@ Building automation, backend stuff, and tools that make work less annoying.
 <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=reivanabdee&show_icons=true&theme=transparent&hide_border=true&title_color=c4b5fd&icon_color=22d3ee&text_color=e9d5ff" /> -->
 <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reivanabdee&layout=compact&theme=transparent&hide_border=true&title_color=c4b5fd&text_color=e9d5ff" /> -->
 
-<br/>
+<!-- <br/> -->
 
 <img height="170" src="https://streak-stats.demolab.com?user=reivanabdee&theme=transparent&hide_border=true&ring=c4b5fd&fire=22d3ee&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=a78bfa" />
 
 </div>
 
----
-
-## 🟣 Contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/reivanabdee/reivanabdee/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-</div>
-
----
 
 ## 🧰 Tech I use
 
