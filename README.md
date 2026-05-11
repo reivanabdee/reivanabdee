@@ -29,7 +29,7 @@ Building automation, backend stuff, and tools that make work less annoying.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/reivanabdee/reivanabdee/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/reivanabdee/reivanabdee/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
